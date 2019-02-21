@@ -1,59 +1,12 @@
-# Welcome to Jekyll!
-#
-
 # Site settings
 title: 志嘉企業 | 壓克力、PC板、各式塑料回收
-description: |
-  資源回收 壓克力回收 PC板 壓克力廣告招牌回收 各式塑料回收
-  廢塑膠回收
-  志嘉企業 新北市樹林區東和街40之2號
-owner: 志嘉企業 # or company name
-first_published: 2019 # if migrating another site, the year of your first publish
 email: GY54088TW@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
+description: > 資源回收 壓克力回收 PC板 壓克力廣告招牌回收 各式塑料回收
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://GY54088.com.tw" # the base hostname & protocol for your site
-social:
-  #twitter: https://twitter.com/<username>
-  #github: https://github.com/<username>
-  #linkedin-square: https://linkedin.com/in/<username>
-  #facebook-official: https://facebook.com/<username>
-  #google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
+
+#twitter_username:
+#github_username:
 
 # Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
